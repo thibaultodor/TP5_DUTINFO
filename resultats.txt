@@ -1,0 +1,24 @@
+fr.umontpellier.iut.EmployeTest
+  ✓ test_salaire_brut_800
+  ✓ test_duplication_code_salaire_brut_net_1
+  ✓ test_duplication_code_salaire_brut_net_2
+  ✓ test_salaire_brut_1000
+  ✓ test_salaire_brut_et_base_zero
+  ✓ test_salaire_net_zero_point_huit_du_brut
+  ✓ test_salaire_net_500
+fr.umontpellier.iut.FabricantTest
+  ✓ test_salaire_brut_net_fabricant_0_extra
+  ✓ test_salaire_brut_net_fabricant_extra_unites
+fr.umontpellier.iut.GestionEmployesTest
+  ✓ test_if_main_method_was_implemented
+fr.umontpellier.iut.RepresentantTest
+  ✓ test_salaire_brut_net_representant_avec_technicien_full
+  ✓ test_salaire_brut_net_representant_avec_chiffre_affaires_et_sans_commission
+  ✓ test_salaire_brut_net_representant_avec_chiffre_affaires_et_commission
+  ✓ test_salaire_brut_net_representant_sans_chiffre_affaires
+fr.umontpellier.iut.TechnicienTest
+  ✓ test_salaire_brut_net_technicien_
+fr.umontpellier.iut.VendeurTest
+  ✓ test_salaire_brut_net_vendeur
+
+16 / 16 tests réussis
